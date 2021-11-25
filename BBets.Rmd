@@ -54,18 +54,11 @@ abline(v=sdata3[195],col="blue")
 low<-sdata1[5]
 high<-sdata1[195]
 ```
-The 95% confidence interval is 229 to 340.
-
-3.What are the fair odds? Use manipulation of odds in the function to tune Brown lows earnings to zero.
 
 
-As per the data above, I believe the fair odds would be 4.39
+As per the plot above,it shows that for us to be able to make 2:1 bets fair the number of students in a given class should be about 29. We come upon the number of the class by narrowing down the number of people. The less people in the class, the less money he makes.
 
-# What size of class makes the 2:1 bet fair?  Use manipulation of number of Students to tune Brownlows earnings to zero.
-
-<!--Explain and display the results of your method of coming up with the estimate of professor Brown lows betting profits!-->
-
-
+The red and the blue line in the plot above represents the 95% confidence interval of his earniings.
 
 # Discussion and Conclusion
 
